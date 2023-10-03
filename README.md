@@ -22,7 +22,7 @@
 
 ##
 
-<p align="left">📚 Tenho estudado Javascript, além de ter aprendido o básico de Python;</p>
+<p align="left">📚 Atualmente estou estudando JavaScript, TypeScript e React</p>
 
 📫 Minhas redes de contato estão abaixo para conversar (costumo responder rápido) e meus projetos estão aqui nos repositórios.
 
