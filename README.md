@@ -1,7 +1,7 @@
 ## Olá! eu sou o Thiago Albino
 
 - 💻 Estudante de Ciência da computação na UFSCar.
-- 😮 Tenho mais conhecimentos sobre front-end, mas ainda não defini qual área seguirei.
+- 😮 Tenho maior conhecimento em front-end devido aos cursos externos que fiz e as matérias especificas da faculdade, mas pretendo me tornar fullstack ao longo do tempo.
 
 
 <a href="https://github.com/Thi08">
