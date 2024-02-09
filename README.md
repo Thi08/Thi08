@@ -2,6 +2,7 @@
 
 - 💻 Estudante de Ciência da computação na UFSCar.
 - 😮 Tenho maior conhecimento em front-end devido aos cursos externos que fiz e as matérias especificas da faculdade, mas pretendo me tornar fullstack ao longo do tempo.
+- <p align="left">📚 Atualmente estou participando do bootcamp do Santander e do Boticário, sendo o primeiro focado em front-end com Angular e Javascript e o segundo em fullstack, incluindo Javascript, PostgreSQL, Node.js e Docker.</p>
 
 
 <a href="https://github.com/Thi08">
@@ -21,8 +22,6 @@
 </div>
 
 ##
-
-<p align="left">📚 Atualmente estou estudando JavaScript, TypeScript e React</p>
 
 📫 Minhas redes de contato estão abaixo para conversar (costumo responder rápido) e meus projetos estão aqui nos repositórios.
 
